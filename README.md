@@ -1,2 +1,1 @@
-# Tensor-Classic-Public
-Public release of tensor classic for babric b1.7.3
+# [DOWNLOAD](https://github.com/IUDevman/Tensor-Classic-Public/releases/download/r1.0.0/tensor-classic-r1.0.0-public.jar)
