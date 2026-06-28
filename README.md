@@ -25,4 +25,6 @@
   Nametags
   <img width="2560" height="1440" alt="2026-06-27_22 09 45" src="https://github.com/user-attachments/assets/3d6e7e5c-4e4f-41c2-b257-d6b8e424bdda" />
   Portal tracers
+  
+  Auto9 Hack Demo: https://youtu.be/kK00hi_SjPs
 </details>
